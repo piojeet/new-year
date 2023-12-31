@@ -314,3 +314,10 @@ a.author{
     opacity: 1;
   }
 }
+
+
+@media screen and (max-width: 400px) {
+    .ano_novo {
+	    font-size: 30px;
+    }
+}
