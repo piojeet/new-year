@@ -317,7 +317,7 @@ a.author{
 
 
 @media screen and (max-width: 400px) {
-    .ano_novo {
+    .ano_novo > span {
 	    font-size: 30px;
     }
 }
